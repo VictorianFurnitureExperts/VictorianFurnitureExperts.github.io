@@ -1,0 +1,307 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "c9a84a8567f10caab4379fdc613e9494"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e1c6244455e2a19ec7b294b7b1c2331"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a0ba884548820066dfadd8416036abba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "c8f24385262425ace55bdac985c878df"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "dafec4f87fead6718cb125f0b0fc8441"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/george-raymond",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/george-raymond/index.html",
+        "type": "file",
+        "md5": "b996d36a204e11bfb7f127deded0b6f4"
+    },
+    {
+        "path": "authors/george-raymond/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/george-raymond/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/george-raymond/page/2/index.html",
+        "type": "file",
+        "md5": "475658ec62bd859c9317dfad78c77c31"
+    },
+    {
+        "path": "discover-the-best-online-furniture-websites-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-best-online-furniture-websites-in-the-usa/index.html",
+        "type": "file",
+        "md5": "0151923d11fca641aed90b3af7befe78"
+    },
+    {
+        "path": "discover-the-best-places-to-buy-luxury-furniture-online-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-best-places-to-buy-luxury-furniture-online-in-the-usa/index.html",
+        "type": "file",
+        "md5": "cc29779d373e97c7425c851276a82b00"
+    },
+    {
+        "path": "elevate-your-home-design-with-high-end-furniture-trends-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-home-design-with-high-end-furniture-trends-in-the-usa/index.html",
+        "type": "file",
+        "md5": "4e970225489de2bd01ff1e9109603379"
+    },
+    {
+        "path": "elevate-your-sleep-space-with-luxury-bedroom-furniture-a-guide-for-the-discerning-homeowner",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-sleep-space-with-luxury-bedroom-furniture-a-guide-for-the-discerning-homeowner/index.html",
+        "type": "file",
+        "md5": "27aeabeabd65b5d823873e56f21b4133"
+    },
+    {
+        "path": "enhance-your-living-space-with-elegant-victorian-end-tables",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhance-your-living-space-with-elegant-victorian-end-tables/index.html",
+        "type": "file",
+        "md5": "7242ac4637bccc101a127a493c234dd9"
+    },
+    {
+        "path": "exploring-the-timeless-elegance-of-victorian-beds-in-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exploring-the-timeless-elegance-of-victorian-beds-in-modern-homes/index.html",
+        "type": "file",
+        "md5": "c596bfa772d093890226d4ad19fadffa"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "c028f82209f5ad17c2cfa4202e76f7bb"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "e86e464326e79f409ad5e33638546fd9"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "e8c2372b48664ce08b77628c0e8ab646"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Mobilia-Cleopatra-Logo.webp",
+        "type": "file",
+        "md5": "d15ae83c31afefc4dce17b169693afaf"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-2xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-lg.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-md.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-sm.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xs.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "f0522bb6c4006a343f5ed57ed9f54337"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2bda05a535dafaef88bfd5e888a21fd7"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "a5a721c0c92d6ccd43d9c8493fdf9ab5"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "2beb092a36360ac3c9b75db7e58932fd"
+    },
+    {
+        "path": "timeless-elegance-discover-the-charm-of-victorian-living-room-sets-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-discover-the-charm-of-victorian-living-room-sets-for-your-home/index.html",
+        "type": "file",
+        "md5": "9472e8e3d551423fa5972c8303388025"
+    },
+    {
+        "path": "timeless-elegance-transform-your-home-with-victorian-style-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-transform-your-home-with-victorian-style-furniture/index.html",
+        "type": "file",
+        "md5": "90234ce1fb6b63a46188ff703ad1a11d"
+    },
+    {
+        "path": "victorian-coffee-tables-timeless-elegance-for-your-living-room-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victorian-coffee-tables-timeless-elegance-for-your-living-room-decor/index.html",
+        "type": "file",
+        "md5": "da800c48629540ab3816ff338848f7ee"
+    },
+    {
+        "path": "victorian-dressers-and-nightstands-timeless-elegance-for-your-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victorian-dressers-and-nightstands-timeless-elegance-for-your-home-decor/index.html",
+        "type": "file",
+        "md5": "48a91e8dad659cb4d1f25985474f5598"
+    }
+]

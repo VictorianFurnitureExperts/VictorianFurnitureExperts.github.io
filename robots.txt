@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://VictorianFurnitureExperts.github.io/sitemap.xml
